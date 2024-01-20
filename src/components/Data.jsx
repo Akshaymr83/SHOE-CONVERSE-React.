@@ -1,0 +1,37 @@
+const CardsData = [
+    { id: 1, title: 'Chuck 70 Canvas ', image: '15.webp',category:'men',price:'3329$',pricerange:'3000',type:'Chuck',color:'cream' },
+    { id: 2, title: 'Oversixed T shirt ', image: 'm1.webp',category:'tshirt',price:'3234$',pricerange:'3000',type:'T-shirt',color:'pink' },
+    { id: 3, title: 'Chuck 68 taylor', image: '2.webp' ,category:'men',price:'5212$',pricerange:'5000' ,type:'Chuck',color:'black'},
+    { id: 4, title: 'All Star', image: '3.webp' ,category:'men',price:'3212$',pricerange:'3000' ,type:'All star',color:'cream'},
+    { id: 5, title: 'Chunk 70 punk', image: '4.webp'  ,category:'men',price:'2212$',pricerange:'2000',type:'Chuck',color:'black'},
+    { id: 6, title: 'C T-shirt', image: 't1.webp'  ,category:'tshirt',price:'3212$',pricerange:'3000',type:'T-shirt',color:'lavender'},
+    { id: 7, title: 'Platform High', image: '5.webp',category:'men',price:'4212$' ,pricerange:'4000',type:'Platform',color:'black'},
+    { id: 8, title: 'Converse chuck', image: '6.webp',category:'women',price:'4212$' ,pricerange:'4000',type:'Chuck',color:'black'},
+    { id: 9, title: 'Chuck 70 AT -XR', image: '7.webp' ,category:'kid',price:'1412$',pricerange:'1000',type:'All star',color:'blue'},
+    { id: 11, title: ' Y-IO oersized tshirt', image: 't2.webp' ,category:'tshirt',price:'4712$',pricerange:'4000',type:'T-shirt',color:'lavender'},
+    { id: 12, title: 'All Star Y-IO', image: '8.webp' ,category:'men',price:'7712$',pricerange:'7000',type:'All star',color:'brown'},
+    { id: 13, title: 'High TOp Cy Platform', image: '9.webp' ,category:'women',price:'6292$',pricerange:'6000',type:'Platform',color:'pink'},
+    { id: 14, title: 'Cy-Tshirt', image: 't6.webp' ,category:'tshirt',price:'1892$',pricerange:'1000',type:'T-shirt',color:'black'},
+    { id: 15, title: 'CHUCk U_Tg', image: '10.webp',category:'women',price:'6212$' ,pricerange:'6000',type:'Chuck',color:'pink'},
+    { id: 16, title: 'All Star 80s', image: '11.webp' ,category:'men',price:'7212$',pricerange:'7000',type:'All star',color:'white'},
+    { id: 17, title: 'ChucK 50_AT', image: '12.webp',category:'women',price:'5212$' ,pricerange:'5000',type:'Chuck',color:'blue'},
+    { id: 18, title: 'C_AT tshirt', image: 't3.webp',category:'tshirt',price:'5212$' ,pricerange:'5000',type:'T-shirt',color:'pink'},
+    { id: 19, title: 'Chuck-77taylor', image: 'kid1.webp' ,category:'kid',price:'2292$',pricerange:'2000',type:'Chuck',color:'pink'},
+    { id: 20, title: 'Ck 680 taylor', image: 'kid2.webp',category:'kid',price:'1331$',pricerange:'1000',type:'Chuck',color:'darkblue'},
+    { id: 21, title: 'All Star Wave', image: '13.webp',category:'men',price:'5112$',pricerange:'5000',type:'All star',color:'cream'},
+    { id: 22, title: '&0S T-shirt', image: 'm2.webp',category:'tshirt',price:'3112$',pricerange:'3000',type:'T-shirt',color:'bluegreen'},
+    { id: 23, title: 'All StarEY', image: '14.webp' ,category:'men',price:'2412$',pricerange:'2000',type:'All star',color:'black'},
+    { id: 24, title: 'All BB prototype', image: '19.webp' ,category:'men',price:'4412$',pricerange:'4000',type:'All star',color:'yellow'},
+    { id: 25, title: 'Chuck 70plus', image: '18.webp' ,category:'men',price:'2412$',pricerange:'2000',type:'Chuck',color:'yellow'},
+    { id: 26, title: 'All star 70plus', image: '17.webp' ,category:'women',price:'2412$',pricerange:'2000',type:'All star',color:'lavender'},
+    { id: 27, title: '70S Tt tshirt', image: 'm3.webp',category:'tshirt',price:'2112$',pricerange:'2000',type:'T-shirt',color:'darkgreen'},
+    { id: 28, title: 'High  Platform', image: '9.webp' ,category:'kid',price:'6292$',pricerange:'6000',type:'Platform',color:'pink'},
+    { id: 29, title: 'One Star pro', image: '29.webp' ,category:'men',price:'4292$',pricerange:'4000',type:'All star',color:'red'},
+    { id: 30, title: 'One Star', image: '30.webp' ,category:'men',price:'7292$',pricerange:'7500',type:'All star',color:'darkgreen'},
+    { id: 31, title: 'Canvas Star', image: '31.webp' ,category:'kid',price:'2292$',pricerange:'2000',type:'Chuck',color:'darkgreen'},
+    { id: 32, title: 'Lopez Pro', image: '32.webp' ,category:'men',price:'2692$',pricerange:'2000',type:'Chuck',color:'darkblue'},
+
+
+   
+  ];
+  export default CardsData;
